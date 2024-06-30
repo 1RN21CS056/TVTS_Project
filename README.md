@@ -1,5 +1,8 @@
 # [VISIT](http://tvts.42web.io) (Open From Laptop) 
 # TVTS_Project
+
+Project by [Dhanush M](https://github.com/DhanushM007) and [Eshwar K](https://github.com/1RN21CS056) 
+
 # This is our DBMS Mini Project
 
 The Traffic Violation Tracking System (TVTS) is a comprehensive solution designed to enhance the
